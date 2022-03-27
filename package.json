@@ -20,7 +20,7 @@
     "react-native-vector-icons": "^4.5.0",
     "react-navigation": "^1.0.0-beta.27",
     "react-redux": "^5.0.6",
-    "recyclerlistview": "^1.2.6",
+    "recyclerlistview": "^2.0.12",
     "redux": "^3.7.2",
     "redux-persist": "^5.5.0",
     "redux-thunk": "^2.2.0"
